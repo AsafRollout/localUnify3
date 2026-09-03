@@ -1,0 +1,13 @@
+---
+apiVersion: featuremanagement.cloudbees.io/v1alpha1
+kind: target-group
+
+name: tgParent
+
+description: tg11 desc
+
+conditions:
+  anyOf:
+    - property:
+        name: property1
+        operator: is-undefined
