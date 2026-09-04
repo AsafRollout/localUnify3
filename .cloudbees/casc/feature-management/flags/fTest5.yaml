@@ -4,7 +4,7 @@ kind: flag
 
 flag: fTest5
 flagType: boolean
-description: blop
+description: blopiiii
 labels:
   - l2
   - l3
