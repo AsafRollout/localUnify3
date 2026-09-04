@@ -4,7 +4,7 @@ kind: flag
 
 flag: fTest5
 flagType: boolean
-description: "zxcvzxcv"
+description: "qwerfds"
 labels:
   - l2
   - l3
