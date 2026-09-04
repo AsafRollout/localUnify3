@@ -4,7 +4,7 @@ kind: flag
 
 flag: fTest/6
 flagType: boolean
-description: "rewrewrwre"
+description: rewrewrwre
 labels:
   - l1
   - l2
